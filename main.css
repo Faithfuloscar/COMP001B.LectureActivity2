@@ -10,6 +10,7 @@ h1{
 p{
     color: lightsalmon;
     padding: 10px;
+    background-color: lightgray;
 }
 .fixed{
     width: 100;
